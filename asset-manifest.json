@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TrailSec/static/css/main.8da79239.chunk.css",
+    "main.js": "/TrailSec/static/js/main.f68d93f3.chunk.js",
+    "main.js.map": "/TrailSec/static/js/main.f68d93f3.chunk.js.map",
+    "runtime-main.js": "/TrailSec/static/js/runtime-main.213bc08a.js",
+    "runtime-main.js.map": "/TrailSec/static/js/runtime-main.213bc08a.js.map",
+    "static/js/2.708a2c72.chunk.js": "/TrailSec/static/js/2.708a2c72.chunk.js",
+    "static/js/2.708a2c72.chunk.js.map": "/TrailSec/static/js/2.708a2c72.chunk.js.map",
+    "index.html": "/TrailSec/index.html",
+    "precache-manifest.81d7d36f1bf10c74ee7e61569f1ed826.js": "/TrailSec/precache-manifest.81d7d36f1bf10c74ee7e61569f1ed826.js",
+    "service-worker.js": "/TrailSec/service-worker.js",
+    "static/css/main.8da79239.chunk.css.map": "/TrailSec/static/css/main.8da79239.chunk.css.map",
+    "static/js/2.708a2c72.chunk.js.LICENSE.txt": "/TrailSec/static/js/2.708a2c72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213bc08a.js",
+    "static/js/2.708a2c72.chunk.js",
+    "static/css/main.8da79239.chunk.css",
+    "static/js/main.f68d93f3.chunk.js"
+  ]
+}
