@@ -1,0 +1,33 @@
+.row{
+    margin: 6px;
+    padding: 6px;
+   }
+
+   .row_titles{
+    font-size: 2rem;
+
+   }
+
+.row_posters{
+    background: linear-gradient(90deg,#67B26F,#11998e);
+   display: flex;
+   overflow-y: hidden;
+   overflow-x: scroll;
+   padding: 12px;
+}
+
+.row_poster{
+    
+    object-fit: fill;
+    width: 100%;
+    max-height: 300px;
+    margin: 18px;
+
+    transition: transform 220ms;
+}
+
+.row_poster:hover{
+
+    
+    transform: scale(1.3);
+}
